@@ -1,25 +1,8 @@
 ## 🦥 Full-ish Stack Developer, Side Project Hoarder, Procrastination Expert
+Enthusiastic dev from Czechia🇨🇿, with close to 7 years of professional experience.  
+Passionate about learning new stuff and making my life easier with *"Automations"*, *"AI"* and *"Fun home tech"*.  
 
-Enthusiastic dev from Czechia🇨🇿, with close to 7 years of professional experience.
+Laravel and TALL stack enthusiast.  
 
-Passionate about learning new stuff and making my life easier with **Automations**, **AI** and *"Fun home tech"*.
-
-Laravel and TALL stack enthusiast.
-
-Latest side stuff
+Latest side stuff  
 🔆 [Not Down](https://notdown.dev)
-
-<!--
-**machacekmartin/machacekmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
