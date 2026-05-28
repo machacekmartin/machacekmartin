@@ -4,5 +4,5 @@ Passionate about learning new stuff and making my life easier with *"Automations
 
 Laravel and TALL stack enthusiast.  
 
-Latest side stuff  
+My latest side stuff
 🔆 [Not Down](https://notdown.dev)
