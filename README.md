@@ -1,11 +1,9 @@
 ## 🦥 Full-ish Stack Developer, Side Project Hoarder, Procrastination Expert
 
-Experienced dev from Czechia, with close to 7 years of experience.
-
+Enthusiastic dev from Czechia🇨🇿, with close to 7 years of professional experience.
 Passionate about learning new stuff and making my life easier with **Automations**, **AI** and *"Fun home tech"*.
 
 Laravel and TALL stack enthusiast.
-
 Latest side thing: [notdown.dev](https://notdown.dev)
 
 <!--
