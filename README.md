@@ -1,4 +1,4 @@
-## Full-ish Stack Developer, Side Project Hoarder, Procrastination Expert
+## 🦥 Full-ish Stack Developer, Side Project Hoarder, Procrastination Expert
 
 Experienced dev from Czechia, with close to 7 years of experience.
 
