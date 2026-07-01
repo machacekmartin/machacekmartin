@@ -1,6 +1,6 @@
 ## 🦥 Full-ish Stack Developer, Side Project Hoarder, Procrastination Expert
 Enthusiastic dev from Czechia🇨🇿 with close to 7 years of professional experience.  
-Passionate about learning new things, building fun stuff and making my life easier with *"Automations"* and *"AI"*.  
+Passionate about learning new things, building fun stuff and making my life easier.
 
 Laravel and TALL stack enthusiast. [Compact bio here](https://machacekmartin.github.io/bio/)  
 
